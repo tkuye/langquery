@@ -1,0 +1,4 @@
+.env
+chroma_logs.log
+.chroma/
+.DS_Store
